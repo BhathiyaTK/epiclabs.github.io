@@ -1071,7 +1071,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #portfolio {
-  padding: 60px 0;
+  padding: 60px 0 70px;
 }
 #portfolio #portfolio-flters {
   padding: 0;
@@ -1220,7 +1220,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
   color: #1cd3dd;
 }
-
+#portfolio .section-notice p{
+  color: #333;
+  font-weight: 500;
+}
 #portfolio .portfolio-item .portfolio-info h6 {
   padding: 0;
   margin: 0;
